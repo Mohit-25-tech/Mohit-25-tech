@@ -60,22 +60,49 @@ I build **end-to-end AI systems** — from data pipelines to deployment — focu
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-`Python` `C++` `C` `JavaScript`
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧠 ML & AI
-`Scikit-learn` `XGBoost` `TensorFlow` `Keras`  
-`NLP` `Transformers` `Embeddings`
+---
 
-### ⚙️ Backend & Deployment
-`FastAPI` `Flask` `Node.js` `Express.js`  
-`Docker` `REST APIs` `WebSockets`
+### 🧠 ML & AI  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-008080?style=for-the-badge)
 
-### 🗄️ Databases
-`PostgreSQL` `MongoDB` `Redis` `pgvector`
+---
 
-### 🧩 Core CS
-`Data Structures & Algorithms` `OOP` `System Design`
+### ⚙️ Backend & Deployment  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF5733?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-4B8BBE?style=for-the-badge)
+
+---
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-0A0A0A?style=for-the-badge)
+
+---
+
+### 🧩 Core CS  
+![DSA](https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F61?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-2C3E50?style=for-the-badge)
 
 ---
 
