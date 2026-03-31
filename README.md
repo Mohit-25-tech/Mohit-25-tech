@@ -1,42 +1,116 @@
-# Hey there, I'm Mohit Nirmal 👋
+<h1 align="center">🚀 Mohit Nirmal</h1>
+<h3 align="center">ML Engineer | AI Systems Builder | FastAPI • NLP • LLMs • Scalable ML Pipelines</h3>
 
-I am a Second year Artificial Intelligence and Machine Learning student at Nirma University.
-I am a Machine Learning Enthusiast and also love problem solving.
+<p align="center">
+  <a href="https://linkedin.com/in/mohit-nirmal-2a6951335"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Mohit-25-tech"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:mohitsnirmal2511@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohit-nirmal-2a6951335/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Mohit-25-tech)
+---
 
-## Coding Profiles:
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/24BAM004/)
+## 🧠 About Me
 
-## Languages and Tools:
+I build **end-to-end AI systems** — from data pipelines to deployment — focused on solving real-world problems.
 
-**Programming Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- 🧠 Strong in **Machine Learning, NLP, Deep Learning**
+- ⚙️ Experience with **FastAPI, Docker, Redis, scalable backend systems**
+- 📊 Built production-style ML pipelines with **feature engineering → modeling → deployment**
+- 🏆 450+ DSA problems solved on LeetCode  
+- 🎯 Focus: **ML Systems + LLM-powered applications**
 
-**Machine Learning & Data Science:**
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=python&logoColor=white)
+---
 
-**Web & Tools:**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+## 🔥 Featured Projects
 
-**Databases:**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### 🚀 SkillWise — AI Workforce Intelligence Platform
+- Built a **9-stage ML pipeline** (scraping → NLP → embeddings → analytics)
+- Processed **275+ job postings across 11 sectors**
+- Implemented **semantic search using embeddings (pgvector)**
+- Designed **career risk scoring engine (5 signals)**
+- Integrated **LLM (Llama 3 via Groq API) for career insights**
+- Backend: FastAPI + Redis + WebSockets + Docker
 
-## 📊 Problem Solving:
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/24BAM004?style=flat)
-> 🏆 Solved **450+ DSA problems** on LeetCode
+👉 *This is my flagship system-level project*
+
+---
+
+### 🏥 Health Risk Prediction System
+- Built ML pipeline with **XGBoost, Random Forest, AdaBoost, Stacking**
+- Achieved **93.5% recall (optimized for real-world impact)**
+- Implemented **feature engineering + hyperparameter tuning**
+- Deployed using **Flask API + Streamlit UI**
+
+---
+
+### 🌿 Plant Disease Detection (CNN)
+- Developed **CNN model with TensorFlow/Keras**
+- Applied **data augmentation & preprocessing**
+- Built full pipeline from training → API → frontend
+- Integrated **FastAPI backend + React frontend**
+
+---
+
+### 🚆 Transport Booking System (C++)
+- Designed using **OOP (Inheritance, Polymorphism, Encapsulation)**
+- Implemented **LRU caching for optimization**
+- Built **dynamic pricing + file-based persistence system**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+`Python` `C++` `C` `JavaScript`
+
+### 🧠 ML & AI
+`Scikit-learn` `XGBoost` `TensorFlow` `Keras`  
+`NLP` `Transformers` `Embeddings`
+
+### ⚙️ Backend & Deployment
+`FastAPI` `Flask` `Node.js` `Express.js`  
+`Docker` `REST APIs` `WebSockets`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Redis` `pgvector`
+
+### 🧩 Core CS
+`Data Structures & Algorithms` `OOP` `System Design`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-25-tech&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-25-tech&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 💪 Solved **450+ DSA problems** on LeetCode  
+- 🎓 CGPA: **9.05/10 (Top Percentile)**  
+- 🏆 Built **SkillWise** at HackeMiNED 2026 (DevX Track)  
+- 🇮🇳 Participated in **Smart India Hackathon 2025**  
+- 👨‍💻 Active member of **Computer Society of India (CSI)**  
+
+---
+
+## 🎯 Current Focus
+
+- Building **LLM-powered applications (RAG, embeddings, agents)**
+- Designing **scalable ML systems**
+- Improving **problem-solving & system design skills**
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: mohitsnirmal2511@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/mohit-nirmal-2a6951335  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
